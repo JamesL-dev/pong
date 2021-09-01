@@ -1,4 +1,4 @@
-# Downloading and isntalling Unity (taken from unity docs)
+# Downloading and installing Unity (taken from unity docs)
 Download and install the Unity Editor from the Unity [download page.](http://unity3d.com/download) The installer uses a Download Assistant and has detailed instructions to follow.
 
 # Unity Download Assistant
